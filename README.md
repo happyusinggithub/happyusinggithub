@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@trity_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@trity_singh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/trity-singh-464810177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trity-singh-464810177/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/trity-singh-464810177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trity-singh-464810177/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/life of coders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="life of coders" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/tritysingh1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tritysingh1997" height="30" width="40" /></a>
 </p>
